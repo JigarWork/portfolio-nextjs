@@ -17,7 +17,7 @@ const Hero = () => {
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          Hi there, I'm Jigar Sutariya, a full stack developer based in Surat,
+          Hi there, I&apos;m Jigar Sutariya, a full stack developer based in Surat,
           Gujarat, India. I specialize in developing scalable, reliable, and
           efficient web applications using a variety of technologies, including
           React.js, Next.js, Node.js, MongoDB, Express.
@@ -31,10 +31,10 @@ const Hero = () => {
         </SectionText>
         <SectionText>
           My approach to development is centered around creating modular and
-          reusable code that can be easily maintained and scaled. I'm a big
-          believer in clean code and testing, and I'm always looking for ways to
+          reusable code that can be easily maintained and scaled. I&apos;m a big
+          believer in clean code and testing, and I&apos;m always looking for ways to
           improve my development process and deliver high-quality code that
-          exceeds my clients' expectations.
+          exceeds my clients&apos; expectations.
         </SectionText>
         <SectionText>
           Please feel free to explore my portfolio and reach out to me if you

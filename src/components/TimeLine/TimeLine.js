@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hi there, I'm Jigar Sutariya, a full stack developer based in Surat,
+        Hi there, I&apos;m Jigar Sutariya, a full stack developer based in Surat,
         Gujarat, India. I specialize in developing scalable, reliable, and
         efficient web applications using a variety of technologies, including
         React.js, Next.js, Node.js, MongoDB, Express.

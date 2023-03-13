@@ -19,7 +19,7 @@ const Technologies = () => (
     <SectionDivider />
     <SectionTitle main>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of a technologies in the web development world.
+      I&apos;ve worked with a range of a technologies in the web development world.
       From Back-end To Design
     </SectionText>
     <List>
